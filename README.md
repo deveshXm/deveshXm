@@ -17,6 +17,5 @@ Hey Fella! I am Devesh Meena, currently a sophomore at NIt , Jalandhar. I do a l
 React and Redux. Currently build a Movie Recommender System.
 
 For more info:
-<br>
 <a href = "https://github.com/deveshXm/matinee">Matinee</a>
 
