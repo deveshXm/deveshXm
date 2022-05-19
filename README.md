@@ -11,11 +11,8 @@ Hey Fella! I am Devesh Meena, currently a sophomore at NIt , Jalandhar. I do a l
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deveshXm&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshXm&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Currently Learning
 
----
-[![](https://visitcount.itsvg.in/api?id=deveshXm&icon=0&color=0)](https://visitcount.itsvg.in)
+React and Redux. Currently build a Movie Recommender System with the help of web based application.
+
