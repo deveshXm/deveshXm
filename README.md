@@ -1,5 +1,5 @@
 # 💫About Me :
-Hey Fella! I am Devesh Meena, currently a sophomore at NIt , Jalandhar. I do a little bit coding and play basketball 
+Hey Fella! I am Devesh Meena, currently a sophomore at NIT , Jalandhar. I do a little bit of coding and play basketball 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_devesh16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devxm) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/devXm) 
