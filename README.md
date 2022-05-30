@@ -12,10 +12,3 @@ Hey Fella! I am Devesh Meena, currently a sophomore at NIT , Jalandhar. I do a l
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshXm&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### Currently Learning
-
-React and Redux. Currently build a Movie Recommender System.
-
-For more info:
-<a href = "https://github.com/deveshXm/matinee">Matinee</a>
-
