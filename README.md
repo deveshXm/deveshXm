@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Devesh Meena</h1>
-<h3 align="center">Student at NIT , Jalandhar</h3>
+![](https://github.com/deveshXm/deveshXm/blob/main/banner.png)
+
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Devesh Meena!</h1>
+
+<br />
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devxm)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://deveshmeena.tech/)
+  
+</div> 
+<br/>
 
 - 🔭 I’m currently working on **The Algorithmic Path (Start Up)**
 
