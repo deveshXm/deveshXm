@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [deveshmeena.tech](deveshmeena.tech)
 
-- 💬 Ask me about **react , mern , etc.**
-
 - 📫 How to reach me **nothefakedevesh@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZAiKj7vhU_x7Zu5JTGWpSd8q33jaAVSP/view?usp=sharing](https://drive.google.com/file/d/1ZAiKj7vhU_x7Zu5JTGWpSd8q33jaAVSP/view?usp=sharing)
