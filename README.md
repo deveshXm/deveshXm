@@ -5,8 +5,10 @@
 <br />
 
 <div align="center">
+  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devxm)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://deveshmeena.tech/)
+  
 </div> 
 <br/>
 
