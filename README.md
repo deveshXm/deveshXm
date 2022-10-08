@@ -28,4 +28,4 @@
 
 <br/>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=deveshxm&show_icons=true&locale=en" alt="deveshxm" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=deveshxm&show_icons=true&locale=en&theme=radical" alt="deveshxm" /></p>
