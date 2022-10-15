@@ -45,5 +45,5 @@
 <br>
 
 <div align="center">
-  <img src="./trust me.gif" width="200ox" />
+  <img src="./trust me.gif" width="200px" />
 </div>
