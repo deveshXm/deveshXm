@@ -11,12 +11,9 @@
   
 </div> 
 <br/>
-
-- 📫 How to reach me **nothefakedevesh@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZAiKj7vhU_x7Zu5JTGWpSd8q33jaAVSP/view?usp=sharing)
-
-- ⚡ Fun fact **I still don't know how to quit Vim**
+<p align="center">📫 How to reach me **nothefakedevesh@gmail.com**</p>
+<p align="center">📄 Know about my experiences <a href="http://drive.google.com/file/d/1ZAiKj7vhU_x7Zu5JTGWpSd8q33jaAVSP/view?usp=sharing">Resume</a></p>
+<p align="center">⚡ Fun fact **I still don't know how to quit Vim**</p>
 
 <h2 align="center">Tech Stack</h3>
 <p align="center" style="background-color:rgba(0, 0, 0, 0.0470588);opacity:0.5;"> 
