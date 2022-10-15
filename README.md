@@ -1,6 +1,7 @@
-![](https://github.com/deveshXm/deveshXm/blob/main/banner.png)
+<!-- ![](https://github.com/deveshXm/deveshXm/blob/main/banner.png) -->
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I%20am%20Devesh%20Meena%20&fontSize=40&fontAlign=70&fontAlignY=40&color=gradient)
 
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Devesh Meena!</h1>
+<!-- <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Devesh Meena!</h1> -->
 
 <br />
 
@@ -36,10 +37,6 @@
     <img src="https://skillicons.dev/icons?i=heroku,firebase,vercel,mysql,mongo,linux" />
   </a>
 </p>
-
-<br/>
-
-![GitHub Snake Light](github-user-contribution.svg#gh-dark-mode-only)
 
 <br/>
 
