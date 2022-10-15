@@ -39,7 +39,7 @@
 
 <br/>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake Light](github-user-contribution.svg#gh-dark-mode-only)
 
 <br/>
 
