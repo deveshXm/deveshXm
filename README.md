@@ -12,7 +12,7 @@
 
 <br>
 
-<h1 align="center"><strong>Tech Stack</strong></h1>
+<h3 align="center"><strong>Tech Stack</strong></h3>
 
 <br>
 
@@ -42,11 +42,8 @@
 ![svg](https://raw.githubusercontent.com/deveshXm/deveshXm/main/profile-3d-contrib/profile-night-view.svg)
 
 <br>
-
-<h1 align="center"><strong>About Me</strong></h1>
-
 <br>
 
 <div align="center">
-  <img src="./trust me.gif" width="400ox" />
+  <img src="./trust me.gif" width="200ox" />
 </div>
