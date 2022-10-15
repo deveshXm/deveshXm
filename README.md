@@ -12,10 +12,6 @@
 </div> 
 <br/>
 
-- 🔭 I’m currently working on **The Algorithmic Path (Start Up)**
-
-- 🌱 I’m currently learning **DevOps**
-
 - 📫 How to reach me **nothefakedevesh@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZAiKj7vhU_x7Zu5JTGWpSd8q33jaAVSP/view?usp=sharing)
