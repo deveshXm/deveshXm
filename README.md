@@ -16,7 +16,30 @@
 <p align="center">⚡ Fun fact **I still don't know how to quit Vim**</p>
 
 <h2 align="center">Tech Stack</h3>
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,express,tailwind,nodejs,bootstrap" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,aws,figma,netlify" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,firebase,vercel,mysql,mongo,linux" />
+  </a>
+</p>
+
+<br/>
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 <br/>
 
