@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: deveshXm
       - name: Commit & Push
         run: |
