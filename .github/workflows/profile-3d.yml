@@ -11,11 +11,10 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - name: GitHub-Profile-3D-Contrib
-        uses: yoshi389111/github-profile-3d-contrib@0.7.0
-          env:
-            GITHUB_TOKEN: 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
-            USERNAME: deveshXm
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: deveshXm
       - name: Commit & Push
         run: |
           git config user.name github-actions
