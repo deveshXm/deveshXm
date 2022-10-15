@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center"><strong>Tech Stack</strong></h3>
+<h1 align="center"><strong>Tech Stack</strong></h1>
 
 <br>
 
@@ -43,7 +43,7 @@
 
 <br>
 
-<h3 align="center"><strong>About Me</strong></h3>
+<h1 align="center"><strong>About Me</strong></h1>
 
 <br>
 
