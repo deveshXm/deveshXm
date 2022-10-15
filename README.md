@@ -47,11 +47,3 @@
 <div align="center">
   <img src="./trust me.gif" width="400px" />
 </div>
-
-<br>
-
-<div align="center">
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=Everyone%20should%20watch%20Terminator%20before%20starting%20programming)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
