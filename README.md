@@ -1,5 +1,5 @@
 ![](https://github.com/deveshXm/deveshXm/blob/main/banner.png)
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I%20am%20Devesh&fontSize=60&fontAlign=50&fontAlignY=40&color=040927&fontColor=ffffff)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!%20I%20am%20Devesh&fontSize=60&fontAlign=50&fontAlignY=40&color=3daaf2&fontColor=ffffff)
 
 <br />
 
