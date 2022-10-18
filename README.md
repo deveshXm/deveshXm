@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devxm)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://deveshmeena.tech/)
 [<img src="https://img.shields.io/badge/Resume-%23000000.svg?&style=for-the-badge">](http://drive.google.com/file/d/1ZAiKj7vhU_x7Zu5JTGWpSd8q33jaAVSP/view?usp=sharing)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](nothefakedevesh@gmail.com)
+<a href="mailto:nothefakedevesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 </div>
 
