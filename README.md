@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java" />
   </a>
 </p>
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,kubernetes,docker,aws,figma,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,github,gcp,docker,aws,figma,netlify" />
   </a>
 </p>
 <p align="center">
