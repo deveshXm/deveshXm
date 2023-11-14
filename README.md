@@ -43,7 +43,3 @@
 
 <br>
 <br>
-
-<div align="center">
-  <img src="./trust me.gif" width="400px" />
-</div>
